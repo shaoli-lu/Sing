@@ -10,7 +10,8 @@ audio {
   }
 
   figcaption {
-      color: goldenrod;
+      color: blueviolet;
       font-size: 20px;
       margin: 2px 15px;
+      font-weight: bold;
   }
