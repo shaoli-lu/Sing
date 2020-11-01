@@ -12,6 +12,6 @@ audio {
   figcaption {
       color: blueviolet;
       font-size: 20px;
-      margin: 2px 15px;
+      margin: 2px 0px 2px 5px;
       font-weight: bold;
   }
